@@ -1,36 +1,30 @@
 {
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJ0b2tlbmRyb3AuYXBwIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
   },
   "frame": {
-    "version": "1",
+    "version": "next",
     "name": "TokenDrop",
-    "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://app-8e6d4b5d-v2yp.vercel.app",
-    "imageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/image.png",
-    "splashImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/splash.png",
-    "splashBackgroundColor": "#000000",
-    "webhookUrl": "https://app-8e6d4b5d-v2yp.vercel.app/api/webhook",
-    "subtitle": "Built with Zara",
-    "description": "TokenDrop is a Base Mini App built with Zara.",
+    "homeUrl": "https://tokendrop.app",
+    "iconUrl": "https://tokendrop.app/icon.png",
+    "splashImageUrl": "https://tokendrop.app/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://tokendrop.app/api/farcaster/webhook",
+    "subtitle": "Socialized token launch & minting",
+    "description": "Mint tokens directly from Farcaster Frames with seamless onchain experience on Base",
     "screenshotUrls": [
-      "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/screenshot1.png",
-      "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/screenshot2.png"
+      "https://tokendrop.app/screenshot-1.png",
+      "https://tokendrop.app/screenshot-2.png",
+      "https://tokendrop.app/screenshot-3.png"
     ],
     "primaryCategory": "social",
-    "tags": [
-      "base",
-      "miniapp",
-      "onchainkit"
-    ],
-    "heroImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/hero.png",
-    "tagline": "TokenDrop",
-    "buttonTitle": "Open mini app",
-    "ogTitle": "TokenDrop",
-    "ogDescription": "TokenDrop is a Base Mini App built with Zara.",
-    "ogImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/og-image.png",
-    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+TokenDrop+at+https%3A%2F%2F9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app"
+    "tags": ["tokens", "minting", "base", "social", "defi"],
+    "heroImageUrl": "https://tokendrop.app/hero.png",
+    "tagline": "Mint tokens instantly",
+    "ogTitle": "TokenDrop - Socialized Token Launch on Base",
+    "ogDescription": "Mint tokens directly from Farcaster Frames with seamless onchain experience",
+    "ogImageUrl": "https://tokendrop.app/og-image.png"
   }
 }

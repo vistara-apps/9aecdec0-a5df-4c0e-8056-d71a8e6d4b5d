@@ -3,12 +3,19 @@ import "./globals.css";
 import { Providers } from "./providers";
 
 export const metadata: Metadata = {
-  title: "TokenDrop - Social Token Launches on Base",
+  title: "TokenDrop - Socialized Token Launch on Base",
   description: "Mint tokens directly from Farcaster Frames with seamless onchain experience",
   openGraph: {
-    title: "TokenDrop - Social Token Launches on Base",
+    title: "TokenDrop - Socialized Token Launch on Base",
     description: "Mint tokens directly from Farcaster Frames with seamless onchain experience",
     images: ["/og-image.png"],
+  },
+  other: {
+    "fc:frame": "vNext",
+    "fc:frame:image": "/splash.png",
+    "fc:frame:button:1": "Launch TokenDrop",
+    "fc:frame:button:1:action": "link",
+    "fc:frame:button:1:target": process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
   },
 };
 
@@ -19,7 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body className="antialiased">
         <Providers>{children}</Providers>
       </body>
     </html>
