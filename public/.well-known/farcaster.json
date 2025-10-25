@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "TokenDrop",
-    "homeUrl": "https://tokendrop.app",
+    "homeUrl": "https://app-8e6d4b5d-9l9h.vercel.app",
     "iconUrl": "https://tokendrop.app/icon.png",
     "splashImageUrl": "https://tokendrop.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://tokendrop.app/api/farcaster/webhook",
+    "webhookUrl": "https://app-8e6d4b5d-9l9h.vercel.app/api/webhook",
     "subtitle": "Socialized token launch & minting",
     "description": "Mint tokens directly from Farcaster Frames with seamless onchain experience on Base",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://tokendrop.app/screenshot-3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["tokens", "minting", "base", "social", "defi"],
+    "tags": [
+      "tokens",
+      "minting",
+      "base",
+      "social",
+      "defi"
+    ],
     "heroImageUrl": "https://tokendrop.app/hero.png",
     "tagline": "Mint tokens instantly",
     "ogTitle": "TokenDrop - Socialized Token Launch on Base",
