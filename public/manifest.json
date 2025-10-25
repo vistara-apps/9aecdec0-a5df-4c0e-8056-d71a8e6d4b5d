@@ -1,0 +1,14 @@
+{
+  "name": "TokenDrop",
+  "description": "TokenDrop is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app",
+  "properties": {
+    "app": {
+      "name": "TokenDrop",
+      "description": "TokenDrop is a Base Mini App built with Zara.",
+      "url": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

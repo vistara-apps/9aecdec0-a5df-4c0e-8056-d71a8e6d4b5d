@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TokenDrop",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-8e6d4b5d-v2yp.vercel.app",
+    "imageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/image.png",
+    "splashImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-8e6d4b5d-v2yp.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "TokenDrop is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/screenshot1.png",
+      "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/hero.png",
+    "tagline": "TokenDrop",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "TokenDrop",
+    "ogDescription": "TokenDrop is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+TokenDrop+at+https%3A%2F%2F9aecdec0-a5df-4c0e-8056-d71a8e6d4b5d.vercel.app"
+  }
+}
